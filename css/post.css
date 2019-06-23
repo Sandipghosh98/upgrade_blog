@@ -20,6 +20,16 @@
     
  
 }
+.buttondesign{
+    font-size: 20px;
+     color: white;
+   
+    background-color: red;
+    margin: 10px 5px;
+    width: 100px;
+    height: 50px;
+   
+}
 .blogAuthor {
 
     font-family: 'Niconne', cursive;
